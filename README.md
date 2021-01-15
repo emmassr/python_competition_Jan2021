@@ -11,4 +11,3 @@ There is also a little fun at the end of each file to make marking this a little
 Enjoy :)
 
 
-# python_competition_Jan2021
